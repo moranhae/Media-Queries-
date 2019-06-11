@@ -1,0 +1,6 @@
+@media (min-width:2px) /*Really Small devices*/ {}
+@media (min-width:480px) /*Mobile Devices */{}
+@media (min-width:600px) {}
+@media (min-width:801px) {}
+@media (min-width:1025px) /*Laptop/Desktop*/{}
+@media (min-width:1281px) /*Large Desktops*/{}
